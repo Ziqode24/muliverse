@@ -22,11 +22,12 @@ const About = () => (
         variants={fadeIn('up', 'tween', 0.2, 1)}
         className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white"
       >
-        Step into the world of the <span className="font-extrabold text-white">Metaverse</span>—an
-        immersive virtual experience where boundaries blur, and the digital feels incredibly real. With just
-        a <span className="font-extrabold text-white">VR</span> device, you can dive into worlds limited only by imagination.
-        Embrace the <span className="font-extrabold text-white">madness of the metaverse</span> as we turn dreams into reality.
-        Ready to explore? Let’s <span className="font-extrabold text-white">venture</span> into the future by scrolling down.
+        Welcome to the <span className="font-extrabold text-white">Metaverse</span> — a new way to
+        explore a world that feels real. With a <span className="font-extrabold text-white">VR</span> headset,
+        you can dive into exciting places that seem almost like dreams. Join the{' '}
+        <span className="font-extrabold text-white">madness of the metaverse</span> — a place where reality
+        and imagination mix like never before. Discover endless adventures, unlock new experiences, and see
+        how far the metaverse can take you. Let’s <span className="font-extrabold text-white">explore</span> it together by scrolling down.
       </motion.p>
 
       <motion.img
